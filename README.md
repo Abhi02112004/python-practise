@@ -1,4 +1,4 @@
-# Python for Data Engineering 
+# Python
 
 Hi, I'm Abhinav 
 This repository showcases my Python Fundamentals and learning journey.
